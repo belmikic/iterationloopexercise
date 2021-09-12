@@ -1,0 +1,14 @@
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.exe
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.deps.json
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.runtimeconfig.json
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.runtimeconfig.dev.json
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.dll
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\bin\Debug\netcoreapp3.1\IterationLoopExercise.pdb
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.csproj.AssemblyReference.cache
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.AssemblyInfoInputs.cache
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.AssemblyInfo.cs
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.dll
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.pdb
+C:\Users\belmi\repos\IterationLoopExercise\IterationLoopExercise\obj\Debug\netcoreapp3.1\IterationLoopExercise.genruntimeconfig.cache
